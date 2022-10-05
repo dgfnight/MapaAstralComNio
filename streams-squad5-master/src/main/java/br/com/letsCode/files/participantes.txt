@@ -1,6 +1,0 @@
-Lucas Kubo,America/Sao_Paulo,2002-01-30
-Derik Galoni,America/Sao_Paulo,1991-06-30
-Ellen Monteiro,America/Sao_Paulo,1996-11-25
-Ana Maria Pessoa,America/Sao_Paulo,1990-07-27
-Ary Ribeiro,America/Sao_Paulo,1991-11-20
-Thiago Feliz,America/Manaus,2000-12-11

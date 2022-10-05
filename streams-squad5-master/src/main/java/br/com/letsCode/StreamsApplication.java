@@ -27,9 +27,9 @@ public class StreamsApplication implements CommandLineRunner {
 
 		String HOME_PATH = System.getProperty("user.dir");
 		System.out.println(HOME_PATH);
-		String participantes = HOME_PATH.concat("/src/main/java/br/com/letsCode/files/participantes.txt");
+		String participantes = HOME_PATH.concat("/files/participantes.txt");
 
-		Path path = Paths.get("C:\\participantes.txt");
+		Path path = Paths.get(participantes);
 		List<String> lines = Files.readAllLines(path);
 		lines.forEach(line -> {
 			String[] campos = line.split(",");
